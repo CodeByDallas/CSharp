@@ -1,0 +1,14 @@
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.AssemblyInfoInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.AssemblyInfo.cs
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.csproj.CoreCompileInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\bin\Debug\net8.0\IterationFizz.exe
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\bin\Debug\net8.0\IterationFizz.deps.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\bin\Debug\net8.0\IterationFizz.runtimeconfig.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\bin\Debug\net8.0\IterationFizz.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\bin\Debug\net8.0\IterationFizz.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\refint\IterationFizz.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\IterationFizz.genruntimeconfig.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\IterationFizz\obj\Debug\net8.0\ref\IterationFizz.dll
