@@ -1,0 +1,14 @@
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\bin\Debug\net8.0\StudentExamScores.exe
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\bin\Debug\net8.0\StudentExamScores.deps.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\bin\Debug\net8.0\StudentExamScores.runtimeconfig.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\bin\Debug\net8.0\StudentExamScores.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\bin\Debug\net8.0\StudentExamScores.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.AssemblyInfoInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.AssemblyInfo.cs
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.csproj.CoreCompileInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\refint\StudentExamScores.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\StudentExamScores.genruntimeconfig.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\StudentExamScores\obj\Debug\net8.0\ref\StudentExamScores.dll
