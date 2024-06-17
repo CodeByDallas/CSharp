@@ -1,0 +1,14 @@
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\bin\Debug\net8.0\RenewalRate.exe
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\bin\Debug\net8.0\RenewalRate.deps.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\bin\Debug\net8.0\RenewalRate.runtimeconfig.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\bin\Debug\net8.0\RenewalRate.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\bin\Debug\net8.0\RenewalRate.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.AssemblyInfoInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.AssemblyInfo.cs
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.csproj.CoreCompileInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\refint\RenewalRate.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\RenewalRate.genruntimeconfig.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\RenewalRate\obj\Debug\net8.0\ref\RenewalRate.dll
