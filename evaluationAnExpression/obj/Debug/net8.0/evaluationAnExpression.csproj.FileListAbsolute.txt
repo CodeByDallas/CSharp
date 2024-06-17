@@ -1,0 +1,14 @@
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\bin\Debug\net8.0\evaluationAnExpression.exe
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\bin\Debug\net8.0\evaluationAnExpression.deps.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\bin\Debug\net8.0\evaluationAnExpression.runtimeconfig.json
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\bin\Debug\net8.0\evaluationAnExpression.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\bin\Debug\net8.0\evaluationAnExpression.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.AssemblyInfoInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.AssemblyInfo.cs
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.csproj.CoreCompileInputs.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\refint\evaluationAnExpression.dll
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.pdb
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\evaluationAnExpression.genruntimeconfig.cache
+C:\Users\dalla\OneDrive\Desktop\C#Code\CsharpProjects\evaluationAnExpression\obj\Debug\net8.0\ref\evaluationAnExpression.dll
